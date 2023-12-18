@@ -16,3 +16,22 @@ div {
 }
 button:hover{
 }
+ul{
+  text-align: center;
+  list-style-type: none;
+  position: fixed;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 10px;
+  text-decoration: none;
+  font-family: sans-serif;
+  color: white;
+  background-color: #0b50a1;
+  border: solid;
+}
+li a:hover{
+  background-color: #1d9533;
+}
