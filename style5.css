@@ -14,8 +14,6 @@ img{
 div {
   animation: yonex 5s linear 2s infinite alternate;
 }
-button:hover{
-}
 ul{
   text-align: center;
   list-style-type: none;
